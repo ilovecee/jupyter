@@ -1,4 +1,4 @@
 jt -t oceans16 -T -N -f ptmono -fs 10 -cellw 95%
 
 from jupyterthemes import jtplot
-jtplot.style(theme=’oceans16’)
+jtplot.style(theme='oceans16')
